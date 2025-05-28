@@ -49,5 +49,16 @@ Contributions are very welcome! If you’d like to improve the project or add ne
 
 1. Fork the repository.
 2. Create a new branch for your feature or fix:
+5. Open a Pull Request against the main branch of the original repository.
+
+## License
+
+This project is licensed under the **GNU General Public License v3.0 (GPLv3)**. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+For questions, suggestions, or feedback, please open an issue in this repository or contact the maintainer via GitHub.
+
+---
 
 #### Enjoy WEBAPP - By Bocaletto Luca
